@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.0" orientation="orthogonal" width="21" height="21" tilewidth="32" tileheight="32">
+ <tileset firstgid="1" name="tiles" tilewidth="32" tileheight="32">
+  <image source="TilesNuevos.gif" width="256" height="128"/>
+ </tileset>
+ <layer name="background" width="21" height="21">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NjYGBgG8WjeBSP4lE8iochBgDOAGJ+5AYAAA==
+  </data>
+ </layer>
+ <layer name="collision" width="21" height="21">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC7WUQQ7AIAgEfYIX///Vnkw221nEpCXxUAvjCsIcY8wfFtkK+/qfYpW5xG9+zFzjrZ/utCx2mm/Xbpi+tt7uuepzq1Pz43pJQ/J17Z7bW6ZySDNp9zzQfU5Mt8Tc3+m+yqz6yN+6MlNtTjrdh3gVk/pFYxJPOZ4HypP3eOoDekupr71/utaddWlWpbrTGXRm0lQxaaZpbKoL5b6ak6SnY1Vtv1oP82iMFOQGAAA=
+  </data>
+ </layer>
+ <layer name="object" width="21" height="21">
+  <data encoding="base64" compression="gzip">
+   H4sIAAAAAAAAC2NgoC+QwoEHm5kjDdAizAbCzKHoD1qk1aEYDkMV0KLMoWVY08KdgzkOAWdc2UHkBgAA
+  </data>
+ </layer>
+</map>
